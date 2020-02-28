@@ -1,0 +1,24 @@
+# ----
+# Site
+
+title: go.CDNF.io
+url: "https://go.cdnf.io"
+baseurl: "" 
+
+author:
+  name: PANHTEON.tech
+  email: info@pantheon.tech
+  twitter: Pantheon_Tech
+social:
+  name: PANTHEON.tech
+  links:
+    - https://pantheon.tech
+
+# -----
+# Build
+
+permalink: "/:title"
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
